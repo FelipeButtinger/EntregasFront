@@ -12,7 +12,7 @@ class Breakout extends Phaser.Scene
     preload ()
     {
         
-        this.load.atlas('assets', '/assets/breakout.png', '/assets/breakout.json');
+        this.load.atlas('assets', 'assets/breakout.png', 'assets/breakout.json');
     }
 
     create ()
