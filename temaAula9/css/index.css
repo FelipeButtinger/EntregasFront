@@ -1,0 +1,17 @@
+body{
+	background-color: coral;
+}
+h1{
+	text-align: center;
+}
+.painel{
+	margin: auto;
+	width: 305px;
+	height: 600px;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px rgb(179, 80, 44);
+	text-align: center;
+	border-color: black;
+	border-width: 2px;
+	border-style: solid	;
+}
