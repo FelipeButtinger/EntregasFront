@@ -1,0 +1,11 @@
+body{
+    background-image: url("../img/landscape.png");
+    background-size: cover;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.ContainerPokedex{
+    margin-top: 90px;
+}
